@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mikkel!
+- 👀 I’m interested in state of the art multimedia hardware and software, such as AR, VR, MR, Machine Learning, Deeplearning, CMS, etc.
+- 🌱 I’m currently learning Android development for a project where we're developing a novel smartphone-based AR HMD.
+- 💞️ I’m looking to collaborate on anything that catches my interest, hit me up if you got a great idea!
+- 📫 How to reach me: https://www.linkedin.com/in/mikkelgedehansen/
